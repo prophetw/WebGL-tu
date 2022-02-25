@@ -1,0 +1,13 @@
+{
+  "name": "my-project",
+  "source": "src/index.html",
+  "scripts": {
+    "start": "parcel",
+    "build": "parcel build"
+  },
+  "devDependencies": {
+    "@parcel/transformer-glsl": "2.3.2",
+    "@parcel/transformer-less": "2.3.2",
+    "parcel": "latest"
+  }
+}
